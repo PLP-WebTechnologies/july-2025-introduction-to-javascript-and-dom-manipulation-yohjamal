@@ -1,1 +1,18 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 2em;
+}
+
+#toggleDiv {
+    margin-top: 1em;
+    padding: 1em;
+    background-color: #f0f0f0;
+    border: 1px solid #ccc;
+}
+
+button {
+    margin: 0.5em 0.5em 1em 0;
+    padding: 0.5em 1em;
+    cursor: pointer;
+}
 
